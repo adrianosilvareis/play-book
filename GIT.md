@@ -62,6 +62,20 @@
 
 ## Como clonar um repositório ?
 
-Como fazer um commit ?
-Como fazer uma pull request ?
-Artefatos
+Acesse a sua conta no VisualStudio em https://inflor.visualstudio.com/
+
+![repository](assets/repository.jpg)
+
+![select](assets/selectRepo.jpg)
+![link](assets/linkToClone.jpg)
+
+## Como fazer um commit ?
+...
+
+## Como fazer uma pull request ?
+...
+
+## O que são artefatos ?
+...
+
+### Como Atualizar seus artefatos ?
