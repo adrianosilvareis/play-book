@@ -11,6 +11,6 @@
 ### [Microsoft Teams](MicrosoftTeams.md)
 ### [Node](Node.md)
 ### [SCRUM](SCRUM.md)
-## Boas Praticas
+## Padrões de projeto
 ### [FrontEnd](FRONTEND.md)
 ### [BackEnd](BACKEND.md)
