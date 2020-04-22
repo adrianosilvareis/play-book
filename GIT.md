@@ -26,7 +26,7 @@
     ```
   > após este comando acesse
     ```
-    git config --globa --edit
+    git config --global --edit
     ```
   > dentro do editor você pode livremente personalizar suas configurações do GIT
 
